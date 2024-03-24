@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> eb3e0b3 (files added)
 # Installation
 ## Build the Jenkins BlueOcean Docker Image (or pull and use the one I built)
 ```
